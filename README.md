@@ -16,7 +16,7 @@ Today many Companys have the Need to run and Manage diffrent Infrastructural Par
 
 ```js
 // The Server Part
-const eventStream = require('couchbase-event-sdk);
+const eventStream = require('couchbase-event-sdk');
 eventStream.connect('couchbase://127.0.0.1',...RBAC)
 
 
