@@ -24,7 +24,7 @@ eventStream.connect('couchbase://127.0.0.1',...RBAC)
 /** You can Subscribe to the data in 2 modes: key or value
   * key === returns only key and event type to allow custom querys to fetch only importent parts
   * value === returns key: value pair 
- /*
+  */
 const listenForChangesOnKeys = eventStream
   .subscribe('key**supports glob and wildcard**','val.deep.name', 'key') 
   
