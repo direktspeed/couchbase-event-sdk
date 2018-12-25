@@ -36,3 +36,9 @@ Its only a Minimal Example i could write whole books about patterns for that.
 
 
 This is currently work in Progress by Frank Lemanschik feel free to contact him if you want to support the Development or give him some Money he is Always open for Good Oportunitys. 
+
+
+## Mock
+We have added Mock Servers to make it more easy to Code without the need of a Full Deployed Couchbase + couchbase-event-sdk Cluster.
+
+They mimic the behavior of a Real Couchbase Cluster via couchnode's mock server + some additional extension to simulate the event-streams.
