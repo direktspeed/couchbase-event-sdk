@@ -37,6 +37,8 @@ Its only a Minimal Example i could write whole books about patterns for that.
 
 This is currently work in Progress by Frank Lemanschik feel free to contact him if you want to support the Development or give him some Money he is Always open for Good Oportunitys. 
 
+This Project is also a Key Technology for node-couchbase-fs a Full Flagged Meta Virtual FileSystem that can be accessed from
+anywhere and Combines Nativ couchbase-fs with any other FileSystem or Cloud Storage so One Filesystem to take them all.
 
 ## Mock
 We have added Mock Servers to make it more easy to Code without the need of a Full Deployed Couchbase + couchbase-event-sdk Cluster.
